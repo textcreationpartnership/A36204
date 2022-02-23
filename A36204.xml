@@ -1,0 +1,152 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Danger and unreasonableness of a toleration in reference to some late papers which have passed concerning liberty of conscience.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A36204</idno>
+            <idno type="STC">Wing D177</idno>
+            <idno type="STC">ESTC R17399</idno>
+            <idno type="EEBO-CITATION">12395105</idno>
+            <idno type="OCLC">ocm 12395105</idno>
+            <idno type="VID">61115</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A36204)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 61115)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 275:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Danger and unreasonableness of a toleration in reference to some late papers which have passed concerning liberty of conscience.</title>
+               </titleStmt>
+               <extent>[3], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Walter Davis ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1685.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christian union --  Controversial literature.</term>
+               <term>Liberty of conscience.</term>
+               <term>Religious tolerance.</term>
+               <term>Dissenters, Religious.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:61115:1"/>
+            <pb facs="tcp:61115:1" rendition="simple:additions"/>
+            <p>THE DANGER AND <hi>Unreaſonableneſs</hi> OF A TOLERATION: In reference to ſome late Papers which have paſſed concerning LIBERTY of CONSCIENCE.</p>
+            <q>
+               <p>He who breaks the Pence and Agreement of the Church, ſets himſelf againſt Chriſt.</p>
+               <p>They cannot receive the reward of Peace, who by their mad diſcord have broke the Lords Peace.</p>
+               <p>Whereas Hereſies and Schiſms had their birth and origi<g ref="char:EOLhyphen"/>nal from mens making diſtinct Conventicles for them<g ref="char:EOLhyphen"/>ſelves, <hi>&amp;c.</hi>
+               </p>
+               <p>The heinous and inexpiable crime of Diſcord is not to be purg'd away, no not with Death.</p>
+               <bibl>St. Cyprian, of the Unity of the Church.</bibl>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for <hi>Walter Davis,</hi> in <hi>Amen-corner.</hi> 1685.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:61115:2"/>
+            <pb n="1" facs="tcp:61115:2"/>
+            <head>THE DANGER AND <hi>Unreaſonableneſs</hi> OF TOLERATION.</head>
+            <p>A Man of ordinary Parts, and but meanly verſed in the Tranſactions of theſe forty laſt years, cannot certainly but admire at the Requeſt of ſome Perſons, who keep ſuch a noiſe at pre<g ref="char:EOLhyphen"/>ſent for Liberty of <hi>Conſcience;</hi> eſpecially if he conſi<g ref="char:EOLhyphen"/>ders, that they know his Majeſty to be a Perſon of <hi>Ex<g ref="char:EOLhyphen"/>perience,</hi> as well as Reaſon and Judgment.</p>
+            <p>What manner of men theſe are who deſire ſuch a <hi>Toleration,</hi> is not hard to judge; but what is their rea<g ref="char:EOLhyphen"/>ſon for this their deſire? Why, their tender Conſcien<g ref="char:EOLhyphen"/>ces, forſooth, cannot diſpence with a few innocent and harmleſs Ceremonies of the <hi>Church</hi> of <hi>England,</hi> from which they differ in things not neceſſary to Salva<g ref="char:EOLhyphen"/>tion, as they cannot deny; but with which, rather than comply, (tho in things which they confeſs to be in<g ref="char:EOLhyphen"/>different) they'l depart from her Communion, and continue in an endleſs Schiſm.</p>
+            <p>It is ſtrange to reflect upon the many methods which have been uſed to reduce theſe People to Unity with us; and 'tis deplorable to conſider the ſmall effect, which the hard labours and ſolid Reaſons of ſo many
+<pb n="2" facs="tcp:61115:3"/>Charitable and Learned Perſons have had upon theſe intractable Spirits.<note place="margin">Dr. <hi>Still.</hi> Miſch. of Sep. p. 1.</note> At the firſt time of our Reformati<g ref="char:EOLhyphen"/>on from the Church of <hi>Rome,</hi> ſuch as thought not ſo well of many of our Ceremonies, were not yet drawn to ſuch a diſlike of our Church, as to ſeparate from it, upon conſideration of the evil Effects of <hi>Diviſion.</hi> Our Church has added nothing ſince, to render it ſelf more intolerable, and therefore this pretence to Separation can be no greater now than it was at that time, and yet the Clamour is daily louder againſt our Conſtitu<g ref="char:EOLhyphen"/>tions, and every Generation puts it ſelf into a farther degree of Separation than the former, and all their De<g ref="char:EOLhyphen"/>fence is <hi>Scrupuloſity</hi> to <hi>Conſcience.</hi> But we deſire them ſeriouſly to conſider, whether this can be a ſufficient Plea for their Separation, (which now it ſeems they de<g ref="char:EOLhyphen"/>ſire to continue for ever) will this clear them from the guilt of wilful Schiſm? will their Ignorance be a De<g ref="char:EOLhyphen"/>fence for them, when they have had all conſiderable means for their better Information? have not all their Objections been anſwered, and the Conſtitutions of our Church, with ſolid (I'm ſure unanſwered) Rea<g ref="char:EOLhyphen"/>ſons vindicated? If they are not ſatisfied with the Rea<g ref="char:EOLhyphen"/>ſons which are produced, why do they not anſwer them? why do they not deſire a more full ſatisfaction for their Doubts, in charitable Language, and with a deſire to be reſolved? They have the liberty of the Preſs to ſet down their Scruples, and to let us know wherein they deſire to be ſatisfy'd, as well as to vent Libels which tend to the diſturbance of the Nation, and Miſchief of the Church? Methinks it ſhould be<g ref="char:EOLhyphen"/>come Folks under ſuch Scrupuloſities as they pretend to, to be meek, and willing to be reſolved in ſuch Points as they differ from us (eſpecially when the Peace of the Church lyes at ſtake) and to conſider, that 'tis poſſible for them to be in the wrong as well as others. But the Diſpoſition of our Modern Separa<g ref="char:EOLhyphen"/>tiſt
+<pb n="3" facs="tcp:61115:3"/>is quite contrary to this; let the Publick Peace be ever ſo much concern'd, his Pride and Self-conceit (for which he has been ever famous) will not ſuf<g ref="char:EOLhyphen"/>fer him to ſuſpect himſelf under a miſtake, or to weigh rightly thoſe reaſons which are againſt his Humour. He thinks it a ſhame to be convinced of his Errour, and rather than ſhew himſelf confuted, chooſes to per<g ref="char:EOLhyphen"/>ſiſt in his Obſtinacy, and deſires a <hi>Toleration</hi> herein.</p>
+            <p>How pernicious both to Church and State ſuch a <hi>Toleration</hi> would prove, is eaſily gheſs'd. We have not been ignorant what ſome Conſciences at their proper opportunities can diſpence with, tho in ſuch caſes as tend to Peace and the Publick good, they are extraor<g ref="char:EOLhyphen"/>dinary tender. Thoſe that ſtrain'd at the Cap and Sur<g ref="char:EOLhyphen"/>plice, could well enough digeſt Rapine, Sacriledge, and Regicide. <hi>Conſcience</hi> and <hi>Chriſtian Liberty</hi> were the ſpe<g ref="char:EOLhyphen"/>cious pretences for their moſt Unchriſtian and Uncha<g ref="char:EOLhyphen"/>ratable Proceedings. I need ſay no more, than that the like Effects muſt proceed from the ſame Cauſes. Irre<g ref="char:EOLhyphen"/>verence towards Gods Miniſters, and Contempt of the King's Magiſtrates, are ſome of the leaſt Evils that may juſtly be expected from the wonted Meekneſs of our weak Brethren; and this would ſoon be every man's Anſwer, in caſe of being enjoyned any thing concern<g ref="char:EOLhyphen"/>ing God or Men, how holy or juſt ſoever it were, that did diſlike him, that his Conſcience is againſt it. If you pleaſe, you ſhall hear the words of a Presbyte<g ref="char:EOLhyphen"/>rian Miniſter, in the late rebellious Times,<note place="margin">Mr. Ed<g ref="char:EOLhyphen"/>wards.</note> concerning the Diſſenters at that time; <q>That he was conſident, that for this many hundred years, there had not been a Party that pretended to ſo much Holineſs, and tenderneſs of <hi>Conſcience</hi> above all other men, as this Party hath done, that hath been guilty of ſo great ſins, horrible Wickedneſs, provoking abomina<g ref="char:EOLhyphen"/>tions, as they are.</q> You may remember likewiſe, that his late Majeſty, of ever bleſſed memory, at his
+<pb n="4" facs="tcp:61115:4"/>happy Reſtauration, ſpontaneouſly condeſcended to grant Liberty of Conſcience to ſuch as diſſented from the eſtabliſh'd Religion, provided they would not di<g ref="char:EOLhyphen"/>ſturb the Peace of the Nation; you may think the King was in a fair way of gratifying them, and that the Conditions were but reaſonable; but how little operation it had upon the Diſſenters, the Commotion of the Fifth-Monarchy-men did afterwards demonſtrate; as alſo, the following Plot of ſome of thoſe men of <hi>Conſcience,</hi> that were concern'd in the fore-going Re<g ref="char:EOLhyphen"/>bellion; which verified the Obſervation of King <hi>James,</hi>
+               <q>That the men of theſe Principles are not ob<g ref="char:EOLhyphen"/>liged by kindneſſes, nor won by frequently repeated favours.</q>
+            </p>
+            <p>But theſe Perſons may do well to conſider, what a number of Sects are likely to ſpring up upon this de<g ref="char:EOLhyphen"/>ſired Liberty. There are many Folks who much de<g ref="char:EOLhyphen"/>light in Novelty, and many to whom nothing is dear<g ref="char:EOLhyphen"/>er than their own ſingular Opinions; now when every man is thus free to ſet up for himſelf, we ſhall be daily peſtered with new Doctrines, and every one will be ſeeking for Subſcribers to his own Model, be it ever ſo abſurd. There can be no better way of judging what will enſue upon ſuch a <hi>Toleration,</hi> than by looking back, and conſidering what has followed already, when there has been ſuch a Liberty; and if we will conſult the ſame fore-quoted Presbyterian Mi<g ref="char:EOLhyphen"/>niſter, he'll acquaint us with ſeveral Opinions that were maintain'd in his time; amongſt a great number of which, theſe are ſome; <q>That the Scriptures cannot be ſaid to be the Word of God, and are no more to be credited than the Writings of Men, being not a Divine but Humane Tradition; that God has a hand in, and is the Author of the ſinfulneſs of his People, not of the Actions alone, but of the very Pravity which is in them; and afterwards, That the Soul of man
+<pb n="5" facs="tcp:61115:4"/>is mortal, as the Soul of a Beaſt, and that there's no Reſurrection at all of the Bodies of Men, nor Heav'n nor Hell after this Life.</q> You may perceive hereby, how ſuch a Liberty as this, of maintaining publickly whatſoever a man's depraved Fancy ſuggeſts to him, cannot but tend to the great propagation of Religion, the edification of the People, and glory of the Church.</p>
+            <p>But what do they deſire under this name of <hi>Liberty</hi> of <hi>Conſcience,</hi> or a <hi>Toleration?</hi> Is it a free Liberty to ſtick cloſe to their old Principles, and continue in their profeſs'd Opinions? if this be it, let them reflect upon thoſe Tenets that have been maintain'd among them, and which I hear not as yet recanted; if theſe are deſtructive to Government, and tend to the upholding of <hi>Rebellion,</hi> it ſeems a little unreaſonable for them to require a perſiſtance in them. What they are, and how likely to produce Loyal and peaceable Effects, would be a long work to ſhew; I ſhall only ſend you to a Collection of many of them, by a Loyal and Laborious Subject of this Nation,<note place="margin">L'Eſtrange.</note> where you may have a full view of the Separatiſt's Opinions, and where you are directed to their Author's; You may alſo find ſome of them in the ſheet that came out at the burning of <hi>Seditious Libels</hi> in <hi>Oxford</hi> the laſt year; in both of which you may learn, what it is that keeps them in as good a poſture as they are in at preſent, and that if they had power proportionable to their deſires, (to the augmentation of which, ſuch a Toleration muſt neceſſarily contribute much) we ſhould have them fight the Lord's Battels, and try again to ſet King Je<g ref="char:EOLhyphen"/>ſus upon his Throne. 'Tis eaſily known who I mean, and 'tis obſervable, that there was never ſuch oppreſſi<g ref="char:EOLhyphen"/>on exerciſed over mens Conſciences by Chriſtians, as was by thoſe who ſo much pretended to an abhorrence of Eccleſiaſtical Tyranny, and who have, not many years ſince, been ſticklers for a Toleration.</p>
+            <pb n="6" facs="tcp:61115:5"/>
+            <p> I ſhall not trouble my ſelf with anſwering any of thoſe late Papers concerning Liberty of Conſcience; neither weighing whether they are in the right when they ſay, the great Oppreſſion they are under is pure<g ref="char:EOLhyphen"/>ly for their Religion, nor confuting that irrefragable Argument in caſe of Hypocriſie, to which men ſhould be forced if they comply with us, nor examining what one of them ſays concerning Qu. <hi>Elizabeth's</hi> time, con<g ref="char:EOLhyphen"/>ceiving that none of theſe belong to my purpoſe, my intent is only to hint at the unreaſonableneſs of their deſire, and the dangerous conſequences that would en<g ref="char:EOLhyphen"/>ſue upon it; I'll only deſire to know of them, whether it were not better (if it were poſſible) for us to be u<g ref="char:EOLhyphen"/>nited, than to widen our Breaches? I believe none is ſuch an Enemy to Peace, but will at leaſt grant me this; if ſo, we beſeech them to uſe ſuch means as may conduce to it. They are eaſie enough to men of unbiaſs'd Affe<g ref="char:EOLhyphen"/>ctions, and unprejudic'd Spirits, that are Friends to Peace, and deſirers of Unity. The caſe is plain and brief, the Conſtitutions of our Church are known, and wherein Diſſenters differ from us; our Requeſt therefore to them is, that they would lay open the Reaſons why they de<g ref="char:EOLhyphen"/>ſire ſuch an unbrotherly Separation from us, but we alſo deſire them to avoid Repetitions, and that they produce not Arguments anſwered long ago, unleſs they give their Replies to them; we deſire them with unpre<g ref="char:EOLhyphen"/>judic'd affections to peruſe the late Writings of our Mi<g ref="char:EOLhyphen"/>niſters, in defence of our Church, and to acquaint us wherein their Reaſons are deficient and unfatisfying; let this be done with a Chriſtian Spirit, and a deſire that their Judgments may be rectify'd in all things, and I doubt not but God (who is not the God of Confuſi<g ref="char:EOLhyphen"/>on, but of Unity; who is the Author of Peace and Lo<g ref="char:EOLhyphen"/>ver of Concord) will grant us a Remedy for theſe ſores, that we need not enter upon actions of <hi>utter Deſperation.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:61115:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
